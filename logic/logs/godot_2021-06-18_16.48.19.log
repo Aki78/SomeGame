@@ -1,0 +1,12 @@
+Godot Engine v3.3.2.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: GeForce GTX 1650/PCIe/SSE2
+OpenGL ES Batching: ON
+ 
+**ERROR**: Cannot open file 'res://ball.tscn'.
+   At: scene/resources/resource_format_text.cpp:1233:load_interactive() - Condition "err != OK" is true. Returned: Ref<ResourceInteractiveLoader>()
+**ERROR**: Failed loading resource: res://ball.tscn. Make sure resources have been imported by opening the project in the editor at least once.
+   At: core/io/resource_loader.cpp:282:_load() - Condition "found" is true. Returned: RES()
+**ERROR**: Failed loading scene: res://ball.tscn
+   At: main/main.cpp:1961:start() - Condition "!scene" is true. Returned: false
+**WARNING**: ObjectDB instances leaked at exit (run with --verbose for details).
+   At: core/object.cpp:2132:cleanup() - ObjectDB instances leaked at exit (run with --verbose for details).
