@@ -1,0 +1,6 @@
+For now:
+  * fighting logic:
+    maybe when it comes 5m close, fighters start to blink? 
+
+  * moving fighters from A to B in the shortest path:
+    maybe A* algorithm?
